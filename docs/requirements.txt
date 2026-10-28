@@ -1,0 +1,34 @@
+Project Idea: Recipe Sharing Platform
+This is a food app where people can share recipes from different countries. You can see what others cook and also post your own recipes.
+There will be a map, and when you click on some region, you can see food from there. So it's also about culture and food together.
+
+What the app should do:
+1. User information
+Every person needs to make an account. We save their name, email, where they live (city), and password.
+Also, users get levels, like in a game, if they post more recipes. Higher level gives them new cosmetics.
+
+2. Recipes
+Users can add their recipes. A recipe has(name,ingredients,instruction how to cook it)
+
+*if they want, they can write some tags like "vegan" or "low calories"
+They can also choose if recipe is public or only for themself.
+
+3. Ingredients
+Each recipe has ingredients inside. We also want to show what type it is (like meat, vegetable, etc), so it’s more easy to search.
+
+4. Tags
+Users can put tags on their recipes. Tags help to filter, for example “no sugar” or “gluten free”.
+
+5. Favorites and collections
+People can click favorite on recipes they like. Also they can make collection, like “My Summer Recipes” or “Quick Lunches”.
+
+6. Ratings
+If you try recipe, you can give stars. Other people will see this rating.
+If many people like recipe, it will have good score.
+
+7. User levels
+When user share more, they get points and their level grows. When they are high level, they can make their profile more cool (like colors or icons).
+
+Why this app is cool:
+It’s not just about cooking, but also about sharing with other people. You can learn new foods, and also show what you like to cook.
+Also, it's good when you don’t know what to eat — this app can help.
